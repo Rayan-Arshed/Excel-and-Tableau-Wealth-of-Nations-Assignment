@@ -25,4 +25,4 @@ A project about cleaning, analysing, and creating dashboards in Tableau from a d
 
 
 Link to Dashboard:
-https://public.tableau.com/shared/XSTN2Z3MP?:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/shared/H6GD966TY?:display_count=n&:origin=viz_share_link
