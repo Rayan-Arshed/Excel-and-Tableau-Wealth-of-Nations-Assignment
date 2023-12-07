@@ -2,6 +2,7 @@
 
 ## Overview
 A project about cleaning, analyzing, and creating dashboards in Tableau from a dataset that contains wealth information about countries worldwide. Also includes consideration of accessibility and colourblind options for the dashboard for the client.
+Marked grade: Distinction
 
 ## Project Goals
 The goals of this project were to practice and understand how to use Excel and Tableau in order to experience and perform the workflow of a Data Analyst. from taking in a data set, all the way to creating visualizations that are easy to understand and answer the requests of the theoretical client. The client requested information about the top 20 countries in each category of the dataset, as well as considering accessibility as the client is colourblind.
