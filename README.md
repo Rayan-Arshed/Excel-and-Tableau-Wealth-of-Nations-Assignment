@@ -36,15 +36,15 @@ The goals of this project were to practice and understand how to use Excel and T
 
 ## Dashboard
 
-GDP
+### GDP
 
 ![Screenshot 2023-09-27 200602](https://github.com/Rayan-Arshed/Excel-and-Tableau-Wealth-of-Nations-Project/assets/95011650/05d3ec1e-ea2d-4068-8bcc-947619b37cd3)
 
-Life Expectancy
+### Life Expectancy
 
 ![Screenshot 2023-09-27 200643](https://github.com/Rayan-Arshed/Excel-and-Tableau-Wealth-of-Nations-Project/assets/95011650/49722780-f364-47ac-94ce-1e99cc34f734)
 
-Smartphone Ownership
+### Smartphone Ownership
 
 ![Screenshot 2023-09-27 204823](https://github.com/Rayan-Arshed/Excel-and-Tableau-Wealth-of-Nations-Project/assets/95011650/e1747e14-6995-4319-b507-e3045703b168)
 
