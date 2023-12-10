@@ -23,6 +23,7 @@ The goals of this project were to practice and understand how to use Excel and T
 
 ## Strong Points of my Work
 - Using Excel to filter, analyze, and clean a dataset to be processed
+- Creating Macros in Excel, including using Visual Basic code for the Print macro
 - Using Tableau to create a large variety of visualizations for the client
 - Taking client accessibility into consideration and designing the dashboards around their needs
 - Thorough documentation of my work process
