@@ -1,4 +1,4 @@
-# Excel and Tableau Wealth of Nations Project
+# Excel and Tableau Wealth of Nations Assignment
 
 ## Overview
 A project about cleaning, analyzing, and creating dashboards in Tableau from a dataset that contains wealth information about countries worldwide. Also includes consideration of accessibility and colourblind options for the dashboard for the client.
